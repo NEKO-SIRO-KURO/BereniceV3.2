@@ -1,0 +1,6 @@
+Item (codigo)	Nome do Item	Valor (Unidade)	     Vendidos	Total
+45462           Pao de Centeio       8.69            0          0.00
+34654           Broa de Milho        5.00            0          0.00
+40              Sonho                4.50            5          22.50
+5000            Tubaina              3.25            0          0.00
+Total de vendas: 22.50
